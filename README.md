@@ -1,6 +1,6 @@
 # Project-P-D
 Project PeacefulDestruction is a Doom modding project for the GZDoom engine.
-Basically like a cross between Hideous Destructor and generic runin' 'n' gunnin', when you break it down, but with a bit of random stuff to spice it up.
+Basically like a cross between Hideous Destructor and generic runnin' 'n' gunnin', when you break it down, but with a bit of random stuff to spice it up.
 
 Manual - https://github.com/Beelzebold/Project-P-D/new/main?readme=1#manual
 
