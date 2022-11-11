@@ -25,6 +25,27 @@ Berserk. What the hell even is that? And why does it make my silent protagonist 
 
 And finally, wait. You slowly regenerate health (indicated by a bright looking flash), which can save you a lot of hassle.
 
+### Pissing Off Demons (And How to Finish the Job)
+So now you're probably wondering "When can I stop sucking so much and shoot them back?" and the answer to that is now. You will learn to aim your firearm, and pull the trigger. Good for you, cadet.
+
+#### Basic Gun Controls
+Altfire - Aim (There is no hipfiring in this game!)
+
+Reload - Take a wild guess.
+
+Fire - Finally, shooting one of their stupid faces.
+
+#### Guns
+So now that we've got that out of the way, guns.
+
+First of all, pistols. Typically takes 3-5 shots to kill a humanoid, depending on the gun. Lower magazine capacity - meant for a simply sidearm.
+
+PDWs and SMGs. Might take 2-4 shots to kill a humanoid. Usually has high magazine capacity and fast rate of fire. Mind the recoil on full-auto.
+
+Rifles. The big boys. Oftes takes 2-3 shots to dust a humanoid. They're good.
+
+Machineguns. The obligatory Big Fucking Guns. Guaranteed 2 shots to take out a humanoid, and incredibly fast rate of fire. The recoil on these can be a bitch.
+
 ## //CREDITS\\\
 
 Credits given where needed. If someone isn't credited or you want me to remove a
