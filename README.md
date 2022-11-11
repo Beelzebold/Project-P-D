@@ -46,6 +46,19 @@ Rifles. The big boys. Oftes takes 2-3 shots to dust a humanoid. They're good.
 
 Machineguns. The obligatory Big Fucking Guns. Guaranteed 2 shots to take out a humanoid, and incredibly fast rate of fire. The recoil on these can be a bitch.
 
+### Looting Your Pals' Corpses (And What to Do With the Goodies)
+What kind of loot can I find out there? Yes, yes, I know the whole spiel already. Please, save it for the others. Because I might just shoot you instead. So, goodies. There's more than the simple medical equipment we've already covered. You know, the Tacticool stuff. NVGs, hazmat suits, body armor. Or armour if you're from literally anywhere other than the United States. Enough chit chat, let's get to it.
+
+#### Armors
+Ah, yes. Finally, you won't keel over and die when a fly so much as farts on you. There are three types - Light Armor, Heavy Armor, and Blast Armor. They are self explanatory. Heavy Armor is somewhat more fragile, but absorbs more in total, Blast Armor is weak against bullets but can easily save you from an explosion or two, etc.
+
+#### General Tactical Tools
+General goodies that do general stuffs. They each have a purpose. Some are less valuable or useful than others.
+
+Night Vision Visor/Light Amplification Visor. You know what this does. Typical green overlay that's barely useful. It does somewhat work, but it needs some light to function.
+
+Hazardous Environment Protection Suit. It protects one hell of a lot against fire, electricity, etc. Just don't expect it to stop a Knave tracer or a Noblefolk's fireball.
+
 ## //CREDITS\\\
 
 Credits given where needed. If someone isn't credited or you want me to remove a
