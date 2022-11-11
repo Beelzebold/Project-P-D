@@ -12,6 +12,10 @@ Well, I've got just the thing for ya. Turn on 'Death Tips' in settings, and then
 
 Medical - https://github.com/Beelzebold/Project-P-D/new/main?readme=1#getting-shot-and-what-to-do-afterwards
 
+Weaponry - https://github.com/Beelzebold/Project-P-D/edit/main/README.md#pissing-off-demons-and-how-to-finish-the-job
+
+Tools & Items - https://github.com/Beelzebold/Project-P-D/edit/main/README.md#looting-your-pals-corpses-and-what-to-do-with-the-goodies
+
 ### Getting Shot (And What to Do Afterwards)
 So, you've been shot in the face by a trooper a few times, and it went through your armor. What's a young, enterprising marine to do? Have medical equipment. Here's a basic run-down.
 
