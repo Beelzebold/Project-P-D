@@ -2,19 +2,19 @@
 Project PeacefulDestruction is a Doom modding project for the GZDoom engine.
 Basically like a cross between Hideous Destructor and generic runnin' 'n' gunnin', when you break it down, but with a bit of random stuff to spice it up.
 
-Manual - https://github.com/Beelzebold/Project-P-D/new/main?readme=1#manual
+Manual - https://github.com/Beelzebold/Project-P-D#manual
 
-Credits - https://github.com/Beelzebold/Project-P-D/new/main?readme=1#credits
+Credits - https://github.com/Beelzebold/Project-P-D#credits
 
 ## MANUAL
 #### Help, I'm burning, bleeding, out of ammo, and out of meds!
 Well, I've got just the thing for ya. Turn on 'Death Tips' in settings, and then just play as normal, and when you inevitably die, it'll tell you something good. Alternatively, take the boring way out and read this massive manual. (I'll try to keep it brief!)
 
-Medical - https://github.com/Beelzebold/Project-P-D/new/main?readme=1#getting-shot-and-what-to-do-afterwards
+Medical - https://github.com/Beelzebold/Project-P-D#getting-shot-and-what-to-do-afterwards
 
-Weaponry - https://github.com/Beelzebold/Project-P-D/edit/main/README.md#pissing-off-demons-and-how-to-finish-the-job
+Weaponry - https://github.com/Beelzebold/Project-P-D#pissing-off-demons-and-how-to-finish-the-job
 
-Tools & Items - https://github.com/Beelzebold/Project-P-D/edit/main/README.md#looting-your-pals-corpses-and-what-to-do-with-the-goodies
+Tools & Items - https://github.com/Beelzebold/Project-P-D#looting-your-pals-corpses-and-what-to-do-with-the-goodies
 
 ### Getting Shot (And What to Do Afterwards)
 So, you've been shot in the face by a trooper a few times, and it went through your armor. What's a young, enterprising marine to do? Have medical equipment. Here's a basic run-down.
