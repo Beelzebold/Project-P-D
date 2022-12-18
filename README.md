@@ -71,6 +71,8 @@ the first time that they appear.
 
 3D Weapon Models - TastyTony - https://sketchfab.com/TastyTony
 
+3D Plasma Rifle Model - Spoon64 - https://sketchfab.com/sjurajm2026
+
 Help with Model Fuckery - FezzyDraws - null
 
 Vast Majority of Code - Me - https://sgtmajorkobold.neocities.org
@@ -79,4 +81,5 @@ Light Soundwork - Me
 
 
 Main Inspirations - Reciever 2 (Wolfire), Tranquility (Caligari87),
+
 and a few stray features from a few stray games here and there.
